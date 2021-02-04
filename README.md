@@ -1,0 +1,2 @@
+# Machine-Learning-Model-Training
+Machine-Learning-Model-Training-Python: Extracted time series glucose and carbohydrate data from 4 different csv files with 50,000 data samples each  Used pandas and sci-kit learn libraries to extract Feature data from Meal and No Meal training data set. Trained a Support Vector Machine to recognize Meal or No Meal data. Use k-fold cross validation on the training data to evaluate my recognition system. Given the time-series glucose data of a patient, Model Predicts whether a stretch of 2 hours of glucose data is a “Meal” or “No Meal”
